@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070104867485",
+    "project_id": "add-list-in-list",
+    "storage_bucket": "add-list-in-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070104867485:android:0c213f863e0545aec7da74",
+        "android_client_info": {
+          "package_name": "uz.shokirov.addlistinlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070104867485-1ks5t9nfnep5ojgkceiocf9c2nvu8gls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_GjgU48R8oeyuHGihTbeH54qfG0KT3bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070104867485-1ks5t9nfnep5ojgkceiocf9c2nvu8gls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
